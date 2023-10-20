@@ -17,7 +17,7 @@ var Mainnet = NetworkConfig{
 	RegistryContractAddr: "0xDD9BC35aE942eF0cFa76930954a156B3fF30a4E1",
 	Bootnodes: []string{
 		// Blox
-		"enr:-Li4QO9u8KJtFJxabwJ3Lthc3qUZSNXaBhN5giKSgI2KmncveKEtD4-zrnepBoUNSEfFG3bc4DYqO8pdA6DKG9RP8YCGAYtNZopth2F0dG5ldHOIAAAAAAAAAACEZXRoMpD1pf1CAAAAAP__________gmlkgnY0gmlwhApkPuSJc2VjcDI1NmsxoQLJiqhOgBPOg_cvkaZzZfSAW2GxO6n_-uFCbHpE9UtX5IN0Y3CCE4iDdWRwgg-g"
+		"enr:-Li4QO9u8KJtFJxabwJ3Lthc3qUZSNXaBhN5giKSgI2KmncveKEtD4-zrnepBoUNSEfFG3bc4DYqO8pdA6DKG9RP8YCGAYtNZopth2F0dG5ldHOIAAAAAAAAAACEZXRoMpD1pf1CAAAAAP__________gmlkgnY0gmlwhApkPuSJc2VjcDI1NmsxoQLJiqhOgBPOg_cvkaZzZfSAW2GxO6n_-uFCbHpE9UtX5IN0Y3CCE4iDdWRwgg-g",
 	},
 	WhitelistedOperatorKeys: []string{
 		// Blox
