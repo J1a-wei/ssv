@@ -17,7 +17,7 @@ var JatoV2 = NetworkConfig{
 	RegistryContractAddr: "0xC3CD9A0aE89Fff83b71b58b6512D43F8a41f363D",
 	Bootnodes: []string{
 		// Blox (ssv.network)
-		"enr:-Li4QD7afQxlC9Vggff8LnwKvqq7v7pic5PtEqQFdQXvVGDAYXWh5h8CM0yA8j-ii_fPdgTnjnrm1UQmXzE-T7pEpP2GAYtNV109h2F0dG5ldHOIAAAAAAAAAACEZXRoMpDkvpOTAAAQIP__________gmlkgnY0gmlwhApkDD6Jc2VjcDI1NmsxoQOvWC8yxFB3E_LJriskKucUTadPaYc4OWDItQwtFNv2f4N0Y3CCE4iDdWRwgg-g"
+		"enr:-Li4QD7afQxlC9Vggff8LnwKvqq7v7pic5PtEqQFdQXvVGDAYXWh5h8CM0yA8j-ii_fPdgTnjnrm1UQmXzE-T7pEpP2GAYtNV109h2F0dG5ldHOIAAAAAAAAAACEZXRoMpDkvpOTAAAQIP__________gmlkgnY0gmlwhApkDD6Jc2VjcDI1NmsxoQOvWC8yxFB3E_LJriskKucUTadPaYc4OWDItQwtFNv2f4N0Y3CCE4iDdWRwgg-g",
 	},
 	WhitelistedOperatorKeys: []string{
 		// Blox's exporter nodes.
